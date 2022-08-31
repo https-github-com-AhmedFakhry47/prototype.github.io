@@ -1,10 +1,13 @@
 ## Welcome to Digitzation AI 
 
-You can use the [editor on GitHub](https://github.com/https-github-com-AhmedFakhry47/prototype.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is meant to publish the beta version of our product ( digitization.ai ). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ًAbout the product 
+digitization.ai is fully automated software used to detect and recognize text in scanned ID cards, and official documents.
+The core of our product is a deep learning OCR model followed by and supported by a necessary software layer for processing
+the scanned documents.
 
-### Markdown
+### Sample 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
