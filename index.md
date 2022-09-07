@@ -7,8 +7,11 @@ digitization.ai is fully automated software used to detect and recognize text in
 The core of our product is a deep learning OCR model followed by and supported by a necessary software layers for processing
 the scanned documents in any random environment.
 
-### Sample 
+### TestSamples 
 
+<video width="320" height="240" controls>
+  <source src="autorotation.mp4" type="video/mp4">
+</video>
 
 ```markdown
 Syntax highlighted code block
