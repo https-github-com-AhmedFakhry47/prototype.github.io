@@ -4,12 +4,11 @@ This website is meant to publish the beta version of our product ( digitization.
 
 ### ًAbout the product 
 digitization.ai is fully automated software used to detect and recognize text in scanned ID cards, and official documents.
-The core of our product is a deep learning OCR model followed by and supported by a necessary software layer for processing
-the scanned documents.
+The core of our product is a deep learning OCR model followed by and supported by a necessary software layers for processing
+the scanned documents in any random environment.
 
 ### Sample 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
